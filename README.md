@@ -1,4 +1,5 @@
 Airplane Crash Analysis | Power BI & Python
+
 📌 Project Overview
 
 This project analyzes global airplane crash data to uncover trends in crash frequency, fatalities, aircraft types, and geographic distribution. The analysis combines Python for data cleaning and exploratory data analysis (EDA) with Power BI for interactive visualization and insights.
